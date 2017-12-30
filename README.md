@@ -1,0 +1,2 @@
+# mintlife
+GitHub Pages
